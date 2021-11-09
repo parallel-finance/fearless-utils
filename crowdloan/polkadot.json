@@ -5,63 +5,63 @@
     "token": "ACA",
     "description": "All-in-one DeFi hub of Polkadot",
     "website": "https://acala.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/acala.png"
+    "icon": "https://cdn.jsdelivr.net/gh/parallel-finance/fearless-utils/crowdloan/icons/acala.png"
   },
   {
-     "paraid": "2004",
-     "name": "Moonbeam",
-     "token": "GLMR",
-     "description": "Ethereum-compatible smart contract parachain on Polkadot",
-     "website": "https://moonbeam.network/",
-     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/moonbeam.png",
-     "flow": {
-         "name": "moonbeam",
-         "data": {
-             "devApiUrl": "https://wallet-test.api.purestake.xyz",
-             "prodApiUrl": "https://yy9252r9jh.api.purestake.io",
-             "devApiKey": "JbykAAZTUa8MTggXlb4k03yAW9Ur2DFU1T0rm2Th",
-             "prodApiKey": "oueZPaKtwAEAooqpdafr33i6yqPgU804E06CqeGb",
-             "termsUrl": "https://raw.githubusercontent.com/moonbeam-foundation/crowdloan-self-attestation/main/moonbeam/README.md",
-             "crowdloanInfoUrl": "https://moonbeam.foundation/moonbeam-crowdloan/"
-         }
-     }
-   },
+    "paraid": "2004",
+    "name": "Moonbeam",
+    "token": "GLMR",
+    "description": "Ethereum-compatible smart contract parachain on Polkadot",
+    "website": "https://moonbeam.network/",
+    "icon": "https://cdn.jsdelivr.net/gh/parallel-finance/fearless-utils/crowdloan/icons/moonbeam.png",
+    "flow": {
+      "name": "moonbeam",
+      "data": {
+        "devApiUrl": "https://wallet-test.api.purestake.xyz",
+        "prodApiUrl": "https://yy9252r9jh.api.purestake.io",
+        "devApiKey": "JbykAAZTUa8MTggXlb4k03yAW9Ur2DFU1T0rm2Th",
+        "prodApiKey": "oueZPaKtwAEAooqpdafr33i6yqPgU804E06CqeGb",
+        "termsUrl": "https://cdn.jsdelivr.net/gh/moonbeam-foundation/crowdloan-self-attestation/main/moonbeam/README.md",
+        "crowdloanInfoUrl": "https://moonbeam.foundation/moonbeam-crowdloan/"
+      }
+    }
+  },
   {
-     "paraid": "2006",
-     "name": "Astar",
-     "token": "ASTR",
-     "description": "A Multi Chain Polkadot DApp Hub",
-     "website": "https://astar.network/",
-     "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/astar.png",
-     "flow": {
-               "name": "",
-               "data": {
-                   "devApiUrl": "",
-                   "prodApiUrl": "",
-                   "devApiKey": "",
-                   "prodApiKey": "",
-                   "termsUrl": "",
-                   "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
-                   "bonusRate": 0,
-                   "referralRate": 0.01
-               }
-           }
-   },
+    "paraid": "2006",
+    "name": "Astar",
+    "token": "ASTR",
+    "description": "A Multi Chain Polkadot DApp Hub",
+    "website": "https://astar.network/",
+    "icon": "https://cdn.jsdelivr.net/gh/parallel-finance/fearless-utils/crowdloan/icons/astar.png",
+    "flow": {
+      "name": "",
+      "data": {
+        "devApiUrl": "",
+        "prodApiUrl": "",
+        "devApiKey": "",
+        "prodApiKey": "",
+        "termsUrl": "",
+        "fearlessReferral": "14Q22opa2mR3SsCZkHbDoSkN6iQpJPk6dDYwaQibufh41g3k",
+        "bonusRate": 0,
+        "referralRate": 0.01
+      }
+    }
+  },
   {
     "paraid": "2013",
     "name": "Litentry",
     "token": "LIT",
     "description": "A Decentralised Identity Aggregation protocol across multiple networks",
     "website": "https://www.litentry.com/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/litentry.png"
-   },
+    "icon": "https://cdn.jsdelivr.net/gh/parallel-finance/fearless-utils/crowdloan/icons/litentry.png"
+  },
   {
     "paraid": "2012",
     "name": "Parallel Finance",
     "token": "PARA",
     "description": "Decentralized money market protocol that offers lending, staking, and borrowing",
     "website": "https://parallel.fi/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/parallelfinance.png"
+    "icon": "https://cdn.jsdelivr.net/gh/parallel-finance/fearless-utils/crowdloan/icons/parallelfinance.png"
   },
   {
     "paraid": "2002",
@@ -69,7 +69,7 @@
     "token": "CLV",
     "description": "A substrate-based smart contract platform built for Polkadot",
     "website": "https://clover.finance/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/clover.png"
+    "icon": "https://cdn.jsdelivr.net/gh/parallel-finance/fearless-utils/crowdloan/icons/clover.png"
   },
   {
     "paraid": "2015",
@@ -77,7 +77,7 @@
     "token": "MANTA",
     "description": "An interoperable privacy layer for the Polkadot ecosystem",
     "website": "https://manta.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/manta.png"
+    "icon": "https://cdn.jsdelivr.net/gh/parallel-finance/fearless-utils/crowdloan/icons/manta.png"
   },
   {
     "paraid": "2018",
@@ -85,6 +85,6 @@
     "token": "GOV",
     "description": "A Polkadot-based DAO management platform",
     "website": "https://www.subdao.network/",
-    "icon": "https://raw.githubusercontent.com/soramitsu/fearless-utils/master/crowdloan/icons/subdao.png"
+    "icon": "https://cdn.jsdelivr.net/gh/parallel-finance/fearless-utils/crowdloan/icons/subdao.png"
   }
 ]
